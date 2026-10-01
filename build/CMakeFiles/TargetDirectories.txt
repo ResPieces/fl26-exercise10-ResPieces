@@ -1,0 +1,4 @@
+/mnt/build/CMakeFiles/widget_events.dir
+/mnt/build/CMakeFiles/edit_cache.dir
+/mnt/build/CMakeFiles/rebuild_cache.dir
+/mnt/build/CMakeFiles/widget_events_autogen.dir
